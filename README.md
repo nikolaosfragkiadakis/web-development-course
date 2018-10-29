@@ -13,6 +13,6 @@ www.nikolaosfragkiadakis.com
 info@kdvm-triantafillou.gr<br />
 www.kdvm-triantafillou.gr
 ## Contact
-Lifelong Learning Centre of Anna Triantafillou<br />
+### Lifelong Learning Centre of Anna Triantafillou
 21 I. Sakadaki St., Sitia Crete<br />
 www.kdvm-triantafillou.gr
