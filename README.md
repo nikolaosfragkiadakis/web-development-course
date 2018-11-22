@@ -4,14 +4,14 @@
 <br />
 <p>#HTML #CSS #JavaScript #Joomla! #WordPress</p>
 <h2>Instructor</h2>
-<strong>NIKOLAOS FRAGKIADAKIS</strong>
+<h3>NIKOLAOS FRAGKIADAKIS</h3>
 <p>info@nikolaosfragkiadakis.com<br />
 www.nikolaosfragkiadakis.com</p>
 <h2>Course Lead</h2>
-<strong>ALEXANDROS ELEUTHERIADIS</strong>
+<h3>ALEXANDROS ELEUTHERIADIS</h3>
 <p>info@kdvm-triantafillou.gr<br />
 www.kdvm-triantafillou.gr</p>
 <h2>Contact</h2>
-<strong>Lifelong Learning Centre of Anna Triantafillou</strong>
+<h3>Lifelong Learning Centre of Anna Triantafillou</h3>
 <p>21 I. Sakadaki St., Sitia Crete<br />
 www.kdvm-triantafillou.gr</p>
